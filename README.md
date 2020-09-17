@@ -3,4 +3,4 @@
 ## Exercice 8
 
 
-Pour créer votre fork, acceptez l'affectation sur GitHub Classroom https://classroom.github.com/a/LX42n5zk
+Pour créer votre fork, acceptez l'affectation sur GitHub Classroom https://classroom.github.com/a/aZa3lXxe
